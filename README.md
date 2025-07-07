@@ -1,5 +1,7 @@
 # ai_alignment_resources
 
+[Slides for my AI Safety presentation](slides_ai_safety.pdf)
+
 # 1. Get informed
 • [AI Alignment Course](https://bluedot.org/courses/alignment/1) by Blue Dot Impact
 
