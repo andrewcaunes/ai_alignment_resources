@@ -2,6 +2,9 @@
 
 [Slides for my AI Safety presentation](slides_ai_safety.pdf)
 
+
+# What can you do to help ?
+ 
 # 1. Get informed
 • [AI Alignment Course](https://bluedot.org/courses/alignment/1) by Blue Dot Impact
 
