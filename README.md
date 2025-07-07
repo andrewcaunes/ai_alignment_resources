@@ -13,7 +13,7 @@
 • [The Alignment Forum](https://www.alignmentforum.org/), (fork of the LessWrong forum)
 
 # 2. Talk about it
-• Best vulgarization material:
+• Best vulgarization material (to watch or to forward to people):
 
 [AI, Humanity's final invention? (video)](https://www.youtube.com/watch?v=fa8k8IQ1_X0) by Kurzgesagt
 
