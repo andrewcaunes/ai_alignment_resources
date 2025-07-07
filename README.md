@@ -19,6 +19,8 @@
 
 [What happens when our computers get smarter than we are? (video)](https://www.youtube.com/watch?v=MnT1xgZgkpk) by Nick Bostrom
 
+[RationalAnimations youtube channel, mostly animed topics on AI safety](https://www.youtube.com/@RationalAnimations/videos)
+
 # 3. Help Alignment Research
 • [AI Safety Camp](https://www.aisafety.camp/) research projects
 
